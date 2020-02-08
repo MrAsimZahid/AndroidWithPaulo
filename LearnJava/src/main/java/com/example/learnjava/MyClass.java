@@ -7,13 +7,16 @@ public class MyClass {
         int a = 2;
         double b = 2;
 
-        int total = (int) (a+b); // casted double to int datatype
+        int total = (int) (a+b);    // casted double to int datatype
         System.out.println(total);
+
+        double remainder = a%b;     // Remainder
+        System.out.println(remainder);
 
 //        String name = "Asim";
 //        String intro = "How are you doing?";
 //        //sub-set of string
-//        char chr = 'A';         //can hold only  one character
+//        char chr = 'A';           //can hold only  one character
 //
 //
 //        int age = 23;
