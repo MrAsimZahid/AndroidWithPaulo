@@ -6,10 +6,18 @@ public class MyClass {
 
         String name = "Asim";
         String intro = "How are you doing?";
-        int age = 23;
+        //sub-set of string
+        char chr = 'A';         //can hold only  one character
 
+
+        int age = 23;
         //long dataType
         long weightOfPlanet = 994333888;
+        byte byt = 1;           // Range= (-127 to 127)
+        short shot = 200;       // 2x byte
+
+
+
 
         //float dataType to deal with decimal numbers
         float pi = 3.14f;
