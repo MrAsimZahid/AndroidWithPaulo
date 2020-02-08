@@ -25,6 +25,9 @@ public class MyClass {
         // only difference between float and double is memory size and declaration style.
         double Pi = 3.14; // for more precision
 
+        //Boloaen dataType
+        boolean leaarner = true;
+
 
         // Print statements
         System.out.println("Hello World!");
